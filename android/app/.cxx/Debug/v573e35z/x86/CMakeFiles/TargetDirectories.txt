@@ -1,0 +1,2 @@
+/Users/johnsonejezie/Downloads/dating/android/app/.cxx/Debug/v573e35z/x86/CMakeFiles/edit_cache.dir
+/Users/johnsonejezie/Downloads/dating/android/app/.cxx/Debug/v573e35z/x86/CMakeFiles/rebuild_cache.dir
