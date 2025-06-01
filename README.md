@@ -3,14 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
+# Stroll Bonfire UI - Flutter Task
 
-This project is a starting point for a Flutter application.
+This is a Flutter project built as part of a frontend interview task for the **Stroll** dating app team. The goal was to replicate a provided Figma UI as closely as possible, ensuring production-level code quality, responsiveness across common devices, and maintainable architecture.
 
-A few resources to get you started if this is your first Flutter project:
+# 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Full replication of provided Figma design
+- Responsive layout for iPhone and common Android devices
+- Vector assets, custom fonts, and dynamic styling
